@@ -1,0 +1,1 @@
+после сборки файл для телефона находится в app/build/outputs/apk/debug/app-debug.apk. это отладочная сборка.
